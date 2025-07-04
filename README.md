@@ -40,7 +40,7 @@ __📂 Project Structure__
   └── README.md
 
 __Demo__
-Live app:
+Live app:https://smartemojiproject-yxdqwfkubsgnu9skezwqbf.streamlit.app/
   
 __🌟 License__
 MIT License
